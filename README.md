@@ -4,5 +4,5 @@
 
 - **Difficulty**: Beginner
 - **Topics**: Side Scrolling, Infinite Generation, Parallax
-- **Version**: Unity 2021.3 LTS
+- **Version**: Unity 2020.3 LTS
 - [**Tutorial Video**](https://youtu.be/ihvBiJ1oC9U)
